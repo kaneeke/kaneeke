@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kaneeke
+- 👀 I’m interested in Frontend, Backend
+- 🌱 I’m currently learning JavaScript
